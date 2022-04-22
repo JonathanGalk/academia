@@ -10,5 +10,5 @@ Usado como base de estudos, onde somente o Front-end foi feito, responsividade f
 - Prática com Grid e Flexbox
 - Em breve...
 ## Resultado da página até o momento.
-![alt text](https://github.com/JonathanGalk/imagens/blob/be3c886b9c7ecd0a70a341fb4293494e263b2e9b/resultado.png)  
+![alt text](https://github.com/JonathanGalk/imagens/blob/be3c886b9c7ecd0a70a341fb4293494e263b2e9b/resultado.png)    
 ![alt text](https://github.com/JonathanGalk/imagens/blob/3f57842c0a6953a442def146e6310383e2287da8/resultado2.png)
