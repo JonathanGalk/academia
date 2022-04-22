@@ -6,7 +6,7 @@ Usado como base de estudos, onde somente o Front-end foi feito, responsividade f
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ### Link do site no [GitHub Pages](https://jonathangalk.github.io/academia/)  
 ### Lista de Modificaçõe e Aprendizado  
-- Pagina de Destques criadas
+- Pagina de Destaques criada
 - Prática com Grid e Flexbox
 - Em breve...
 ## Resultado da página até o momento.
