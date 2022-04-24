@@ -8,6 +8,7 @@ Usado como base de estudos, onde somente o Front-end foi feito, responsividade f
 ### Lista de Modificaçõe e Aprendizado  
 - Pagina de Destaques criada
 - Prática com Grid e Flexbox
+- Alteração de cores
 - Em breve...
 ## Resultado da página até o momento.
 Pagina inicial  
