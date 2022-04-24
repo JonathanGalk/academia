@@ -123,13 +123,13 @@ html {
 /* SOBRE */
 .sobre {
     width: 100%;
+    background-color: var(--bg-color);
+    padding: 2%;
 }
 .sobre p {
     text-align: center;
     font-size: 1.3rem;
     color: var(--link-color);
-    padding: 2%;
-    margin: 10%;
     font-family: roboto;
 }
 
@@ -305,10 +305,11 @@ html {
     width: 100%;
     text-align: center;
     font-size: 1.5rem;
-    color: var(--link-color);
-    padding: 2%;
+    color: var(--link-hover-color);
+    padding: 1%;
     font-family: roboto;
-    background-color: var(--bg-color);
+    font-weight: 900;
+    background-color: var(--text-color);
 }
 /* CONTATO */
 .contato {
