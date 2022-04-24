@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/5c33c2821a.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Academia</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <a href="index.html" class="logo"><img src="imagem/logo.png" alt="Logo"></a>
+        <input type="checkbox" id="chk">
+        <label for="chk">&equiv;</label>
+        <nav class="menu">
+            <label for="chk">&times;</label>
+            <ul>
+                <li><a href="#sobre">sobre</a></li>
+                <li><a href="#destaque">destques</a></li>
+                <li><a href="#plano">planos</a></li>
+                <li><a href="#contato">contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="titulo">
+        <h1>Sport fitness</h1>
+    </div>
+    <div class="sobre" id="sobre">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos et a ex repellendus quidem vero dolore necessitatibus impedit quis debitis, aliquam quas neque tempore excepturi alias beatae eveniet dignissimos voluptatem?</p>
+    </div>
+    <p class="divisa">Alguns de nossos destaques!</p>
+    <section class="servicos" id="destaque">
+        <div class="serv serv1">
+            <h2>Academia para Todos!</h2>
+        </div>
+        <div class="serv serv2">
+            <h2>Dietas Personalizadas</h2>
+        </div>
+        <div class="serv serv3">
+            <h2>Musculação</h2>
+        </div>
+        <div class="serv serv4">
+            <h2>Pilates</h2>
+        </div>
+        <div class="serv serv5">
+            <h2>Yoga</h2>
+        </div>
+        <a href="destaques.html">Ver Mais</a>
+    </section>
+    <p class="divisa">Conheça nosso planos!</p>
+    <section class="planos" id="plano">
+        <div class="card">
+            <h1>Básico</h1>
+            <p><span>R$50</span>/mês</p>
+            <a href="#">Conhecer</a>
+        </div>
+        <div class="card">
+            <h1>Premium</h1>
+            <p><span>R$100</span>/mês</p>
+            <a href="#">Conhecer</a>
+        </div>
+        <div class="card">
+            <h1>Personalizado</h1>
+            <p><span>R$200</span>/mês</p>
+            <a href="#">Conhecer</a>
+        </div>
+    </section>
+    <section class="contato" id="contato">
+        <form action="#">
+            <h2>Entre em contato pelas nossas Redes Sociais ou se preferir, use o formulário abaixo.</h2>
+            <input type="text" placeholder="Seu Nome" required>
+            <input type="email" placeholder="Seu E-mail">
+            <input type="tel" placeholder="Seu Telefone" required>
+            <textarea placeholder="Sua Mensagem" cols="30" rows="10"></textarea>
+            <input type="submit" value="Enviar" onclick="alert('Ainda não estamos funcionando!')">
+        </form>
+        <div class="map">
+            <h2><i class="fa-solid fa-location-dot"></i> Rua vamos ver ainda, s/n, SP </h2>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d393298.93825682614!2d-46.86807119350102!3d-23.675428354383232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce448183a461d1%3A0x9ba94b08ff335bae!2sS%C3%A3o%20Paulo%2C%20State%20of%20S%C3%A3o%20Paulo!5e0!3m2!1sen!2sbr!4v1650116100289!5m2!1sen!2sbr"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+        </div>
+    </section>
+    <footer class="rodape">
+        <ul class="redes">
+            <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+            <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+            <li><a href="#"><i class="fa-brands fa-whatsapp"></i></a></li>
+            <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+        </ul>
+        <p>Desenvolvido por <span>JB</span></p>
+    </footer>
+</body>
+</html>
